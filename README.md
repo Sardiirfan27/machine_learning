@@ -8,4 +8,4 @@ Materi apa saja yang akan dipelajari?
 * Neural Networks : Mengenal dasar dari neural network. Akan diterangkan mengenai multi layer perceptron serta convolutional neural network dalam image classification.
 * Tensorflow : Belajar tentang library tensorflow, sebuah powerful library yang dipakai untuk mengembangkan project machine learning.
 
-Course Dicoding: https://www.dicoding.com/academies/184
+Courses at Dicoding: https://www.dicoding.com/academies/184
